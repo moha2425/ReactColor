@@ -1,2 +1,2 @@
 # ReactColor
-Exercice sur le changement de couleurs avec des boutons
+Color modifications with buttons and text
